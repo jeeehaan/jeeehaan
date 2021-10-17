@@ -15,7 +15,7 @@
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&langs_count=10&count_private=true&theme=radical" />
             </div>
  
-  <div class="container">
+<!--   <div class="container">
             <div id="content">
                 <h1>Repositories</h1>
                 <p></p>
@@ -28,7 +28,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=sorting-algorithm&theme=radical" />
            <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=QoDe&theme=radical" />
            <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=sistem-informasi-pegawai&theme=radical" />
-        </div>
+        </div> -->
 
 
 
