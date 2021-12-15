@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Jessy Hanifiah</h1>
 
+## 🚀 About Me
+I'm a front end web developer
+
  <div class="container">
             <div id="content">
                 <h1>Github Stats</h1>
@@ -15,20 +18,13 @@
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&langs_count=10&count_private=true&theme=radical" />
             </div>
  
-<!--   <div class="container">
-            <div id="content">
-                <h1>Repositories</h1>
-                <p></p>
-            </div>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=huddle-landing-page&theme=radical" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=3-column-preview-card-component&theme=radical" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=intro-component-with-signup-form&theme=radical" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=product-landing-page&theme=radical" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=rest-api-authentication-example&theme=radical" /> 
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=sorting-algorithm&theme=radical" />
-           <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=QoDe&theme=radical" />
-           <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=sistem-informasi-pegawai&theme=radical" />
-        </div> -->
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jessyhanifiah.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessy-hanifiah-1b0020194)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jeeehaan)
+
+
 
 
 
