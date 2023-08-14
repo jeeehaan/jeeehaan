@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋🏻 I'm Jessy Hanifiah</h1>
-<p align="center">I love building frontend and enthusiastic about delving deeper into it! I'm currently expanding my skill set by learning Next.js and Tailwindcss.</p>
+<p align="center">I am deeply passionate about frontend development and enthusiastic about diving deeper into this field. I am actively utilizing Next.js and Tailwindcss in my current tech stack.</p>
 
 <img
   src="https://github.com/jeeehaan/jeeehaan/blob/main/images/stat.svg"
