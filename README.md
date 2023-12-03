@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋🏻 I'm Jessy Hanifiah</h1>
-<p align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=F0DB4F&center=true&width=1400&lines=I'm+a+Frontend+Developer" alt="Typing SVG" align="center" /></p>
+<h1 align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FFFFFF&center=true&width=1400&lines=Hello+👋🏻+I'm+Jessy+Hanifiah" alt="Typing SVG" align="center" /></h1>
+<p align=center>Frontend Developer</p>
 
 ## Skills
 
