@@ -5,7 +5,6 @@
 
 - Programming Languages: **JavaScript, TypeScript**
 - Frameworks and Technologies: **Next.js, Prisma**
-- Databases: **MySQL, PostgreSQL, SQLite**
 - Version Control: **GitHub**
 
 ## Wakatime
