@@ -16,8 +16,5 @@
 
 ## Codewars
 
-<img
-  src="https://github.r2v.ch/codewars?user=jeeehaan&stroke=%23BB432C"
-  alt="Codewars Jeeehaan"
-/>
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=jeeehaan)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
