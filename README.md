@@ -11,9 +11,13 @@
 
 <img
   src="https://github.com/jeeehaan/jeeehaan/blob/main/images/stat.svg"
-  alt="Jeeehaan"
+  alt="Wakatime Jeeehaan"
 />
 
 ## Codewars
 
-![Codewars](https://github.r2v.ch/codewars?user=jeeehaan&stroke=%23BB432C)
+<img
+  src="https://github.r2v.ch/codewars?user=jeeehaan&stroke=%23BB432C"
+  alt="Codewars Jeeehaan"
+/>
+
