@@ -13,3 +13,7 @@
   src="https://github.com/jeeehaan/jeeehaan/blob/main/images/stat.svg"
   alt="Jeeehaan"
 />
+
+## Codewars
+
+![Codewars](https://github.r2v.ch/codewars?user=jeeehaan&stroke=%23BB432C)
