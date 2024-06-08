@@ -16,5 +16,5 @@
 
 ## Codewars
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=jeeehaan)](https://github.com/ignacio-cuadra/github-readme-codewars)
+![image](https://www.codewars.com/users/jeeehaan/badges/large)
 
