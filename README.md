@@ -18,3 +18,4 @@
 
 ![image](https://www.codewars.com/users/jeeehaan/badges/large)
 
+why the hell u blocked me on every platform
